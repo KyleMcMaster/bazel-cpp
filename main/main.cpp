@@ -5,9 +5,12 @@
 #include <iostream> 
 #include <cstdio>
 
+#include "greeting-service.h"
+
 int main()      
 {    
-    std::cout << "Hello Bazel! ";
+    std::string msg = get_message("Bazel");
+    std::cout << msg;
     std::getchar();
     return 0;      
 }
