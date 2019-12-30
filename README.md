@@ -1,11 +1,8 @@
-# bazel-cpp
-- Example C++ project utilizing Bazel for the build pipeline
-- Primary goal is to demonstrate modern C++ patterns and practices with a bazel build pipeline
+# cpp-sandbox
+sandbox repo for exploring various patterns and new features of c++ within multiple build environments and tooling ecosystems
 
-## build 
-build using `bazel build ///main:hello-bazel`
+## bazel-cpp
+- Example application utilizing Bazel for the build pipeline
 
-## references
-https://github.com/isocpp/CppCoreGuidelines
-
-https://github.com/bazelbuild/examples/tree/master/cpp-tutorial
+## docker
+- Example application using g++ within docker containers
