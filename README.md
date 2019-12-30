@@ -1,7 +1,7 @@
 # cpp-sandbox
 sandbox repo for exploring various patterns and new features of c++ within multiple build environments and tooling ecosystems
 
-## bazel-cpp
+## bazel
 - Example application utilizing Bazel for the build pipeline
 
 ## docker
