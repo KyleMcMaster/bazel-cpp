@@ -37,3 +37,9 @@
 #bazel 
 bazel-*
 .bazelrc
+
+#cmake out
+out/
+
+#vs
+.vs
